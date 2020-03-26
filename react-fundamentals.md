@@ -2,17 +2,17 @@
 
 Answer these on your own, then compare answers as a group
 
-1.  What is React?
+1.  What is React? It is a javascript library used to build user interfaces for web applications.
 
-2.  What is create-react-app?
+2.  What is create-react-app? tool/command that configures a bare-bones react-app for you.
 
-3.  What is Component Based Architecture?
+3.  What is Component Based Architecture? breaks down a design into functional and logical components within one another. In this way, these components become self-sustaining, independent micro-systems
 
-4.  What is JSX?
+4.  What is JSX? language similar to HTML used within our javascript code
 
-5.  What is the virtual DOM?
+5.  What is the virtual DOM? a stored ideal version of a UI that is not currently present on the DOM
 
-6.  What is unidirectional (one-way) data flow?
+6.  What is unidirectional (one-way) data flow? data can go from a parent component to a child, but not vice-versa. However, events can travel upwards on the chain.
 
 ### Understand
 
