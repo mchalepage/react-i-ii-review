@@ -2,9 +2,9 @@
 
 Answer these on your own, then compare answers as a group
 
-1.  What are props?
+1.  What are props? Used for passing data from one component to another. Data with props are being passed in a uni-directional flow.
 
-2.  How do you pass props from a parent to a child?
+2.  How do you pass props from a parent to a child? You can pass data in React by defining custom HTML attributes to which you assign your data with JSX syntax
 
 3.  How do you access props from a class-based child component?
 
